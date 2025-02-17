@@ -17,4 +17,4 @@ I'm comfortable working with a range of technologies, including:
 
 ## Connect
 
-You can connect with me on [LinkedIn](your_linkedin_profile_url) (Optional - but highly recommended for a professional profile).
+You can connect with me on [LinkedIn](your_linkedin_profile_url)
