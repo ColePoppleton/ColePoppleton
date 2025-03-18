@@ -13,7 +13,7 @@ I'm comfortable working with a range of technologies, including:
 
 * **Front-end:** HTML, CSS, JavaScript (Vue, Angular)
 * **Back-end:**  Node.js, PHP
-* **Graphics:** OpenGL, Vulkan, Unity Game Engine
+* **Graphics:** OpenGL, Vulkan, Unity Game Engine, (Currently creating my dissertation based of OpenGL and Qt, for a simulation tool using predictive modeling)
 
 ## Connect
 
