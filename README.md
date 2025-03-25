@@ -5,7 +5,7 @@ Welcome to my public GitHub profile! I'm a passionate and driven developer with 
 ## Areas of Expertise
 
 * **Web Development:** I'm proficient in building modern web applications, with experience in both front-end and back-end technologies.  I enjoy creating user-friendly interfaces and robust server-side logic. Alot of the content that is hidden due to privacy is focused on web based content.
-* **Graphics Rendering:** I'm fascinated by the intricacies of low-level graphics programming. Particually in practice projects such as fluid sims and a recent raytracing one I did using octrees.
+* **Graphics Rendering:** I'm fascinated by the intricacies of low-level graphics programming. Particually in practice projects such as fluid sims and a recent raytracing one I did implementing octrees to increase efficiency.
 
 ## Technologies
 
